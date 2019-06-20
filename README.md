@@ -1,0 +1,2 @@
+# DiscordMEMZ
+24hbot
